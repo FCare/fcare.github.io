@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Presentation
 
-You can use the [editor on GitHub](https://github.com/FCare/kronos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kronos is a Sega Saturn emulator forked from uoYabause. Kronos is targetting Linux and Windows OS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Requirements
+- Windows 7/10 32bits or 64 bits
+- Ubuntu 64 bits
+- OpenGLES3.0 capable HW and SW
+
+### Capabilities
 
 ### Markdown
 
